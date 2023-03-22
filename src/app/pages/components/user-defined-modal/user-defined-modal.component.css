@@ -1,0 +1,23 @@
+:host ::ng-deep .p-dropdown {
+    width: 15rem;
+}
+
+/* .country-item-value {
+    img.flag {
+        width: 17px;
+    }
+} */
+
+p-skeleton {
+    width: 100%;
+}
+
+:host ::ng-deep .p-multiselect {
+    min-width: 15rem;
+    width: 14rem;
+}
+
+p-dialog .ui-dialog {
+    overflow: scroll;
+    max-height: 70%;
+  }
